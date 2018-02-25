@@ -1,4 +1,4 @@
-#Customer-Identification-for-Business-using-SparkML
+Customer-Identification-for-Business-using-SparkML
 
 A fictitious company in San Diego is trying to expand its Clothing Business and planning to identify the customers in the city and also planning to send out their offers and deals to those customers who have income >50k to promote their brand. To determine the potential customers they obtained a census data from UCI repository(https://archive.ics.uci.edu/ml/datasets/Census+Income). Now, the goal is to build a classification predictive model which identifies the potential customers using the collected census data. 
 
